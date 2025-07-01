@@ -22,17 +22,17 @@
   Open powershell at this location and do
             npm install
 
-### Start the React development server:
+- Start the React development server:
   On same powershell location do  
             npm start
 
-The React application will run at:
+- The React application will run at:
   http://localhost:3000/
 
  
  
- ### Open the API project in Visual Studio 2022 or later.
+ ### Open the API project in Visual Studio .
 
-  Build and run the API project.
-  The API will be accessible at:
-  http://localhost:5298/swagger/index.html
+ - Build and run the API project.
+ - The API will be accessible at:
+ - http://localhost:5298/swagger/index.html
