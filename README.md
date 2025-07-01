@@ -9,8 +9,8 @@
 - Install Node.js from:  
   https://nodejs.org/en/download
 
-- Clone or download the repository containing both frontend and backend projects.
-  AFH_Locations_Frontend
+- Clone or download the repository containing both frontend and backend projects:
+  AFH_Locations_Frontend,
   AFH_Locations_Project
 
 ### Frontend – React App
