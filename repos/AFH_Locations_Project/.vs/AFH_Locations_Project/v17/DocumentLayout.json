@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eshu_\\source\\repos\\AFH_Locations_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D840AB85-F2B5-4816-B6A8-B14E2D7A4A0C}|AFH_Locations_Project\\AFH_Locations_Project.csproj|c:\\users\\eshu_\\source\\repos\\afh_locations_project\\afh_locations_project\\service\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D840AB85-F2B5-4816-B6A8-B14E2D7A4A0C}|AFH_Locations_Project\\AFH_Locations_Project.csproj|solutionrelative:afh_locations_project\\service\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D840AB85-F2B5-4816-B6A8-B14E2D7A4A0C}|AFH_Locations_Project\\AFH_Locations_Project.csproj|c:\\users\\eshu_\\source\\repos\\afh_locations_project\\afh_locations_project\\controllers\\afhlocationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D840AB85-F2B5-4816-B6A8-B14E2D7A4A0C}|AFH_Locations_Project\\AFH_Locations_Project.csproj|solutionrelative:afh_locations_project\\controllers\\afhlocationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D840AB85-F2B5-4816-B6A8-B14E2D7A4A0C}|AFH_Locations_Project\\AFH_Locations_Project.csproj|c:\\users\\eshu_\\source\\repos\\afh_locations_project\\afh_locations_project\\models\\afhofficefeedmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D840AB85-F2B5-4816-B6A8-B14E2D7A4A0C}|AFH_Locations_Project\\AFH_Locations_Project.csproj|solutionrelative:afh_locations_project\\models\\afhofficefeedmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D840AB85-F2B5-4816-B6A8-B14E2D7A4A0C}|AFH_Locations_Project\\AFH_Locations_Project.csproj|c:\\users\\eshu_\\source\\repos\\afh_locations_project\\afh_locations_project\\locations-fallback.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D840AB85-F2B5-4816-B6A8-B14E2D7A4A0C}|AFH_Locations_Project\\AFH_Locations_Project.csproj|solutionrelative:afh_locations_project\\locations-fallback.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D840AB85-F2B5-4816-B6A8-B14E2D7A4A0C}|AFH_Locations_Project\\AFH_Locations_Project.csproj|c:\\users\\eshu_\\source\\repos\\afh_locations_project\\afh_locations_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D840AB85-F2B5-4816-B6A8-B14E2D7A4A0C}|AFH_Locations_Project\\AFH_Locations_Project.csproj|solutionrelative:afh_locations_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "locations-fallback.json",
+              "DocumentMoniker": "C:\\Users\\eshu_\\source\\repos\\AFH_Locations_Project\\AFH_Locations_Project\\locations-fallback.json",
+              "RelativeDocumentMoniker": "AFH_Locations_Project\\locations-fallback.json",
+              "ToolTip": "C:\\Users\\eshu_\\source\\repos\\AFH_Locations_Project\\AFH_Locations_Project\\locations-fallback.json",
+              "RelativeToolTip": "AFH_Locations_Project\\locations-fallback.json",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwDEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-01T13:15:09.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LocationService.cs",
+              "DocumentMoniker": "C:\\Users\\eshu_\\source\\repos\\AFH_Locations_Project\\AFH_Locations_Project\\Service\\LocationService.cs",
+              "RelativeDocumentMoniker": "AFH_Locations_Project\\Service\\LocationService.cs",
+              "ToolTip": "C:\\Users\\eshu_\\source\\repos\\AFH_Locations_Project\\AFH_Locations_Project\\Service\\LocationService.cs",
+              "RelativeToolTip": "AFH_Locations_Project\\Service\\LocationService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:06:35.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eshu_\\source\\repos\\AFH_Locations_Project\\AFH_Locations_Project\\Program.cs",
+              "RelativeDocumentMoniker": "AFH_Locations_Project\\Program.cs",
+              "ToolTip": "C:\\Users\\eshu_\\source\\repos\\AFH_Locations_Project\\AFH_Locations_Project\\Program.cs",
+              "RelativeToolTip": "AFH_Locations_Project\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvx4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:23:14.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AFHLocationsController.cs",
+              "DocumentMoniker": "C:\\Users\\eshu_\\source\\repos\\AFH_Locations_Project\\AFH_Locations_Project\\Controllers\\AFHLocationsController.cs",
+              "RelativeDocumentMoniker": "AFH_Locations_Project\\Controllers\\AFHLocationsController.cs",
+              "ToolTip": "C:\\Users\\eshu_\\source\\repos\\AFH_Locations_Project\\AFH_Locations_Project\\Controllers\\AFHLocationsController.cs",
+              "RelativeToolTip": "AFH_Locations_Project\\Controllers\\AFHLocationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:22:09.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AFHOfficeFeedModel.cs",
+              "DocumentMoniker": "C:\\Users\\eshu_\\source\\repos\\AFH_Locations_Project\\AFH_Locations_Project\\Models\\AFHOfficeFeedModel.cs",
+              "RelativeDocumentMoniker": "AFH_Locations_Project\\Models\\AFHOfficeFeedModel.cs",
+              "ToolTip": "C:\\Users\\eshu_\\source\\repos\\AFH_Locations_Project\\AFH_Locations_Project\\Models\\AFHOfficeFeedModel.cs",
+              "RelativeToolTip": "AFH_Locations_Project\\Models\\AFHOfficeFeedModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:20:08.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

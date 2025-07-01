@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Bedfordshire - Dunstable",
+    "address1": "87 High Street South",
+    "address2": "Dunstable",
+    "city": "Bedfordshire",
+    "postcode": "LU6 3SF"
+ },
+  {
+    "name": "Dorset - Highcliffe",
+    "address1": "Suite 7, Brearley House",
+    "address2": "278 Lymington Road",
+    "city": "Highcliffe, Dorset",
+    "postcode": "BH23 5ET"
+  },
+  {
+    "name": "North Devon - Barnstaple",
+    "address1": "Office G1, Node",
+    "address2": "1 Enterprise Road",
+    "city": "Barnstaple",
+    "postcode": "EX31 3YB"
+  },
+  {
+    "name": "North Wales - Colwyn Bay",
+    "address1": "Suite S3 Penrhos Manor",
+    "address2": "Oak Drive",
+    "city": "Colwyn Bay",
+    "postcode": "LL29 7YW"
+  },
+  {
+    "name": "Worcestershire - Bromsgrove",
+    "address1": "AFH House",
+    "address2": "Buntsford Drive",
+    "city": "Bromsgrove",
+    "postcode": "B60 4JE"
+   },
+  {
+    "name": "Somerset – Taunton",
+    "address1": "Creech Castle",
+    "address2": "Bathpool",
+    "city": "Taunton",
+    "postcode": "TA1 2DX"
+},
+  {
+    "name": "Nottingham - Sandiacre",
+    "address1": "58 Station Rd",
+    "address2": "Sandiacre ",
+    "city": "Nottingham ",
+    "postcode": "NG10 5AS"
+  },
+  {
+    "name": "Berkshire - Cookham",
+    "address1": "The Carriage Barn, Bartletts Court",
+    "address2": "Littlewick Green",
+    "city": "Maidenhead",
+    "postcode": "SL6 3RX"
+   },
+  {
+    "name": "Hertfordshire - Bishop's Stortford",
+    "address1": "25C North Street",
+    "address2": "Bishop's Stortford",
+    "city": "Hertfordshire",
+    "postcode": "CM23 2LD"
+  },
+  {
+    "name": "Cheshire - Nantwich",
+    "address1": "3rd Floor Pepper House",
+    "address2": "Market Street",
+    "city": "Nantwich",
+    "postcode": "CW5 5DQ"
+   
+  }
+]

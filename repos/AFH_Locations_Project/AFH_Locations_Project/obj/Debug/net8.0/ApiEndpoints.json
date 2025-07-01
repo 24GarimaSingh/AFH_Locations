@@ -1,0 +1,23 @@
+[
+  {
+    "ContainingType": "AFH_Locations_Project.Controllers.AFHLocationsController",
+    "Method": "Get",
+    "RelativePath": "AFHLocations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "skip",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "take",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
